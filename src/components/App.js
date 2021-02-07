@@ -25,7 +25,7 @@ class App extends React.Component {
       <div className="main">
         <div className="post-list"></div>
         <div className="post-body">
-          <p>Title</p>
+          <p>Titlee</p>
           <p>Content {this.state.name}</p>
         </div>
       </div>
